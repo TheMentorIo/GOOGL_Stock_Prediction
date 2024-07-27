@@ -38,3 +38,24 @@ This project involves analyzing and predicting stock prices using historical dat
 - `Feature Engineering`: Prepares data for modeling.
 - `Model Training`: Implements linear regression and iterative prediction.
 - `Model Evaluation`: Assesses model performance with metrics and visualizations.
+
+## GOOGL Stock
+
+![GOOGL Stock](img/GOOGL.png)
+
+## 3 DAYS OF GOOGL Stock
+
+![3 DAYS OF GOOGL Stock](img/GOOGL_Day.png)
+
+## Predicted Stock
+
+![Predicted Stock](img/Predicted_Stock.png)
+
+## Seasonal Decomposition Quarter
+
+![Seasonal Decomposition Quarter](img/Seasonal_Decomposition_Quarter.png)
+
+
+
+
+
